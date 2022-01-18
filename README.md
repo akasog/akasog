@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1>Bonjour 👋 Je m'appelle Sogyal Cagniard</h1>
+
+- 🎓 Je suis actuellement une formation de développeur web chez Open Classrooms
+- 📧 Pour me contacter c'est par ici : cagniard.s@hotmail.fr
 
 <!--
 **akasog/akasog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
